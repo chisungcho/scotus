@@ -1,5 +1,6 @@
 #Analyze the scotus network (Supreme Court of the United States)
 #created: 04/24/16
+#by: Michael and Chisung
 
 setwd("C:/Users/michael/Desktop/Scotus_Network_2/scotus/with_node_attributes")
 
